@@ -40,6 +40,28 @@ I am a Project Assistant Professor at The University of Tokyo, working at the in
 
 ---
 
+## Let's Connect
+
+<p align="center">
+	If this resonates with your interests, feel free to follow and connect.
+</p>
+
+<p align="center">
+	<a href="https://github.com/poyotamu000">
+		<img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+	</a>
+	<a href="https://x.com/Aki_Miki_2401">
+		<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+	</a>
+	<a href="https://www.linkedin.com/in/akihiro-miki-18641829b">
+		<img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+	</a>
+</p>
+
+<p align="center">
+	<i>Building robots not only to move, but to understand life through construction.</i>
+</p>
+
 
 
 
